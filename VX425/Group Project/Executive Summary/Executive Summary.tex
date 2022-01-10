@@ -1,0 +1,89 @@
+% Created by Bonita Graham
+% Last update: February 2019 By Kestutis Bendinskas
+
+% Authors:
+% Please do not make changes to the preamble until after the solid line of %s.
+
+\documentclass[10pt]{article}
+\usepackage[explicit]{titlesec}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+\usepackage{hyphenat}
+\usepackage{ragged2e}
+\RaggedRight
+
+
+% This adjusts the underline to be in keeping with word processors.
+\usepackage{soul}
+\setul{.6pt}{.4pt}
+
+
+% The following sets margins to 1 in. on top and bottom and .75 in on left and right, and remove page numbers.
+\usepackage{geometry}
+\geometry{vmargin={1in,1in}, hmargin={.75in, .75in}}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\pagenumbering{gobble}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+
+% These Commands create the label style for tables, figures and equations.
+\usepackage[labelfont={footnotesize,bf} , textfont=footnotesize]{caption}
+\captionsetup{labelformat=simple, labelsep=period}
+\newcommand\num{\addtocounter{equation}{1}\tag{\theequation}}
+\renewcommand{\theequation}{\arabic{equation}}
+\makeatletter
+\makeatother
+\setlength{\intextsep}{10pt}
+\setlength{\abovecaptionskip}{2pt}
+\setlength{\belowcaptionskip}{-10pt}
+
+\renewcommand{\textfraction}{0.10}
+\renewcommand{\topfraction}{0.85}
+\renewcommand{\bottomfraction}{0.85}
+\renewcommand{\floatpagefraction}{0.90}
+
+% These commands set the paragraph and line spacing
+
+\titlespacing\section{0pt}{0pt}{-10pt}
+\titlespacing\subsection{0pt}{0pt}{-8pt}
+\renewcommand{\baselinestretch}{1.15}
+
+% This designs the title display style for the maketitle command
+\makeatletter
+\newcommand\sixteen{\@setfontsize\sixteen{16pt}{6}}
+\renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
+\begin{flushleft}
+\vspace{-.375in}
+\sixteen\bfseries \@title
+\medskip
+\end{flushleft}
+\textit{\@author}
+\egroup}
+\makeatother
+
+\title{Executive Summary}
+
+% Add author information below. Communicating author is indicated by an asterisk, the affiliation is shown by superscripted lower case letter if several affiliations need to be noted.
+\author{JI Telepresence Robot}
+
+\pagestyle{empty}
+\begin{document}
+
+% Makes the title and author information appear.
+\maketitle
+% Abstracts are required.
+\section{Abstract}
+Oftentimes people feel sick and want to see a doctor. If it's not that serious, people feel unnecessary to go to the hospital, because they don't want to lose too much time waiting in line or travelling. Our project aims at addressing the need for people to have access to a suitable health care service but saves time for patients and makes the doctor more efficient. This can be accomplished by equipping a robot with a medicine dispenser, medical sensors and a screen for remote diagnosis.
+\section{Target Customers}
+Our customers are people that feel sick, but not sick enough to see a doctor, or which can be diagnosed with simple health checks, which our robot can do. Other potential customers are elderly people requiring regular medical tests and someone to care for them. To help these customers, we work with clinics, doctors and caregivers. Thereby, their reach for people in need can be expanded.
+\section{Competitors}
+Our main competitors are classical hospitals and tablet computers. Customers may prefer to meet doctors personally rather than get remote diagnosis through robots. Some may feel uneasy to use robots and don’t trust the sensors. The robot might not be able to help diagnose all illnesses. But these patients aren’t the majority and we can cooperate with hospitals to treat remaining patients.
+Other competitors are apps and video communication devices. However, they can only provide virtual service while better diagnosis needs more data like blood pressure, which cannot be recorded by tablets. Additionally, our robot can also provide medicine and door-to-door service, which saves the customer lots of time and effort.
+\section{Business Plan and Model}
+We are in healthcare industry, whose size is quite large in china. Data shows there are more than 500 million patients in China every year. Our conservative expectation for market size is 50 billion RMB. We predict that the annual growth is about 8\% and the upper boundary is 320 billion RMB if we can work well with partners. For marketing, we plan to provide our robot as service by lending it to communities or clinics. The price will be set according to cost for production and maintenance. We'll distribute it from inventory to customers by ourselves. The promotion mainly includes personal selling, publicity, and social media.
+\par For technology, we plan to combine robot technology with tablets so that it can provide solid diagnosis  and service through medical sensors and dispensers rather than virtual video communication.
+\par For finance, we plan to get different revenue for different customers. We'll charge low service fee for each diagnosis from patients. For clinics and caregivers, we'll charge rental fee, depending how long they need it. Additionally, we can put their advertisement on our robot and charge promotion fee.
+\section{Conclusion}
+Telepresence robot is a technology with bright future and wide applications. With its help, patients can get diagnosis from doctors conveniently and clinics and caregivers can do their job more efficiently.
+\end{document}
