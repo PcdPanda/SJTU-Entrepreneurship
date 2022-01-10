@@ -1,0 +1,50 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Project Motivation}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Customer Requirement}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Problem}{subsection.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.3}{Competitive and Related Products or Technology}{section.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Giraffe Telepresence Robot}{subsection.1.3}% 6
+\BOOKMARK [2][-]{subsection.1.4}{Relevant Hardware \046 Software}{section.1}% 7
+\BOOKMARK [3][-]{subsubsection.1.4.1}{Raspberry Pi}{subsection.1.4}% 8
+\BOOKMARK [3][-]{subsubsection.1.4.2}{Team Viewer}{subsection.1.4}% 9
+\BOOKMARK [3][-]{subsubsection.1.4.3}{Screen, Camera and other Actuators and Sensors}{subsection.1.4}% 10
+\BOOKMARK [1][-]{section.2}{Engineering Specification}{}% 11
+\BOOKMARK [2][-]{subsection.2.1}{Information Sources}{section.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Medicine Dispenser}{subsection.2.1}% 13
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Telepresence Robot}{subsection.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.2}{Engineering Specifications}{section.2}% 15
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Hardware Standard}{subsection.2.2}% 16
+\BOOKMARK [2][-]{subsection.2.3}{Software Standard}{section.2}% 17
+\BOOKMARK [1][-]{section.3}{Selected Concept Description}{}% 18
+\BOOKMARK [2][-]{subsection.3.1}{Chassis}{section.3}% 19
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Version I}{subsection.3.1}% 20
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Version II}{subsection.3.1}% 21
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Overview of Selected Concept}{subsection.3.1}% 22
+\BOOKMARK [2][-]{subsection.3.2}{Medicine Dispenser}{section.3}% 23
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Mixed Pill Manual Sorting}{subsection.3.2}% 24
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Pill Blocks Automatic Sorting}{subsection.3.2}% 25
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Concept Selection Process}{subsection.3.2}% 26
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Overview of Selected Concept}{subsection.3.2}% 27
+\BOOKMARK [3][-]{subsubsection.3.2.5}{Engineering Design Analysis}{subsection.3.2}% 28
+\BOOKMARK [3][-]{subsubsection.3.2.6}{Design Description}{subsection.3.2}% 29
+\BOOKMARK [2][-]{subsection.3.3}{Software Implementation}{section.3}% 30
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Control System}{subsection.3.3}% 31
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Communication System}{subsection.3.3}% 32
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Video Streaming System}{subsection.3.3}% 33
+\BOOKMARK [2][-]{subsection.3.4}{Manufacturing Plan}{section.3}% 34
+\BOOKMARK [2][-]{subsection.3.5}{Validation Plan}{section.3}% 35
+\BOOKMARK [3][-]{subsubsection.3.5.1}{Chassis movement}{subsection.3.5}% 36
+\BOOKMARK [3][-]{subsubsection.3.5.2}{Medicine dispenser}{subsection.3.5}% 37
+\BOOKMARK [3][-]{subsubsection.3.5.3}{Remove video communication}{subsection.3.5}% 38
+\BOOKMARK [1][-]{section.4}{Project Timeline and Plan}{}% 39
+\BOOKMARK [2][-]{subsection.4.1}{Project Milestone \046 Gantt Chart}{section.4}% 40
+\BOOKMARK [1][-]{section.5}{Analaysis of Potential Problems}{}% 41
+\BOOKMARK [1][-]{section.6}{Conclusions}{}% 42
+\BOOKMARK [1][-]{section.7}{Reference}{}% 43
+\BOOKMARK [1][-]{section.8}{Appendix}{}% 44
+\BOOKMARK [1][-]{section.9}{Bios}{}% 45
+\BOOKMARK [2][-]{subsection.9.1}{Chongdan Pan}{section.9}% 46
+\BOOKMARK [2][-]{subsection.9.2}{Fernando Boaro}{section.9}% 47
+\BOOKMARK [2][-]{subsection.9.3}{Niyiqiu Liu}{section.9}% 48
+\BOOKMARK [2][-]{subsection.9.4}{Ruixing Zhou}{section.9}% 49
+\BOOKMARK [2][-]{subsection.9.5}{Tianyu Qiu}{section.9}% 50

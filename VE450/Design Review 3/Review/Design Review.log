@@ -1,0 +1,741 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.7.7)  25 MAY 2020 18:03
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Design Review.tex"
+(d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Design Review.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(c:/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+)) (c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+) (c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+ (c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+) (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (c:/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks20
+) (c:/texlive/2017/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks21
+) (c:/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count102
+\float@exts=\toks22
+\float@box=\box28
+\@float@everytoks=\toks23
+\@floatcapt=\box29
+) (c:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (c:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+ (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+) (c:/texlive/2017/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen122
+\WF@size=\dimen123
+\c@WF@wrappedlines=\count104
+\WF@box=\box30
+\WF@everypar=\toks24
+Package: wrapfig 2003/01/31  v 3.6
+) (c:/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (c:/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count105
+\multirow@dima=\skip47
+\bigstrutjot=\dimen124
+) (c:/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip48
+\subfigcapskip=\skip49
+\subfigcaptopadj=\dimen125
+\subfigbottomskip=\skip50
+\subfigcapmargin=\dimen126
+\subfiglabelskip=\skip51
+\c@subfigure=\count106
+\c@lofdepth=\count107
+\c@subtable=\count108
+\c@lotdepth=\count109
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip52
+\subfig@bottom=\skip53
+) (c:/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+ (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+) (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen127
+\Hy@linkcounter=\count110
+\Hy@pagecounter=\count111
+ (c:/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count112
+ (c:/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count113
+ (c:/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen128
+\Fld@menulength=\count114
+\Field@Width=\dimen129
+\Fld@charsize=\dimen130
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count115
+\c@Item=\count116
+\c@Hfootnote=\count117
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count118
+\c@bookmark@seq@number=\count119
+ (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip54
+) (c:/texlive/2017/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks25
+\footnotemargin=\dimen131
+\c@pp@next@reset=\count120
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
+) (c:/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count121
+\lst@gtempboxa=\box31
+\lst@token=\toks26
+\lst@length=\count122
+\lst@currlwidth=\dimen132
+\lst@column=\count123
+\lst@pos=\count124
+\lst@lostspace=\dimen133
+\lst@width=\dimen134
+\lst@newlines=\count125
+\lst@lineno=\count126
+\lst@maxwidth=\dimen135
+ (c:/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count127
+\lst@skipnumbers=\count128
+\lst@framebox=\box32
+) (c:/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+ (c:/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Design Review.aux)
+\openout1 = `"Design Review.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen136
+\scratchbox=\box33
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen137
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks28
+) (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (c:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring OFF on input line 55.
+ (c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count135
+)
+LaTeX Info: Redefining \ref on input line 55.
+LaTeX Info: Redefining \pageref on input line 55.
+LaTeX Info: Redefining \nameref on input line 55.
+ (d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Design Review.out) (d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Design Review.out)
+\@outlinefile=\write3
+\openout3 = `"Design Review.out"'.
+
+\c@lstlisting=\count136
+ <P1.png, id=205, 255.95625pt x 198.7425pt>
+File: P1.png Graphic file (type png)
+ <use P1.png>
+Package pdftex.def Info: P1.png used on input line 57.
+(pdftex.def)             Requested size: 127.9778pt x 99.371pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 57.
+ (c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 57.
+ (c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/P1.png>] (d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Design Review.toc [2])
+\tf@toc=\write4
+\openout4 = `"Design Review.toc"'.
+
+ [3] [4]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: - on input line 83.
+
+[5] <P2.png, id=291, 179.92218pt x 380.17032pt>
+File: P2.png Graphic file (type png)
+ <use P2.png>
+Package pdftex.def Info: P2.png used on input line 115.
+(pdftex.def)             Requested size: 179.92174pt x 380.16939pt.
+ [6 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/P2.png>] <P3.png, id=298, 808.52063pt x 575.90157pt>
+File: P3.png Graphic file (type png)
+ <use P3.png>
+Package pdftex.def Info: P3.png used on input line 115.
+(pdftex.def)             Requested size: 121.27286pt x 86.3815pt.
+ <P4.png, id=299, 587.19376pt x 321.45094pt>
+File: P4.png Graphic file (type png)
+ <use P4.png>
+Package pdftex.def Info: P4.png used on input line 115.
+(pdftex.def)             Requested size: 176.15948pt x 96.43602pt.
+ [7 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/P3.png> <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/P4.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 156.
+ (c:/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 156.
+ [8] [9] <Z5.png, id=338, 1119.18124pt x 987.69pt>
+File: Z5.png Graphic file (type png)
+ <use Z5.png>
+Package pdftex.def Info: Z5.png used on input line 161.
+(pdftex.def)             Requested size: 361.34999pt x 318.90059pt.
+
+
+LaTeX Warning: Reference `tab:spec' on page 10 undefined on input line 166.
+
+[10 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Z5.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ <Z1.png, id=349, 1032.85875pt x 549.05125pt>
+File: Z1.png Graphic file (type png)
+ <use Z1.png>
+Package pdftex.def Info: Z1.png used on input line 174.
+(pdftex.def)             Requested size: 301.00192pt x 160.0083pt.
+ [11] <Z2.png, id=354, 1039.885pt x 531.9875pt>
+File: Z2.png Graphic file (type png)
+ <use Z2.png>
+Package pdftex.def Info: Z2.png used on input line 180.
+(pdftex.def)             Requested size: 301.00192pt x 153.98831pt.
+ [12 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Z1.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ <Z3.png, id=360, 906.38625pt x 660.4675pt>
+File: Z3.png Graphic file (type png)
+ <use Z3.png>
+Package pdftex.def Info: Z3.png used on input line 186.
+(pdftex.def)             Requested size: 301.00192pt x 219.33562pt.
+ [13 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Z2.png> <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Z3.png>] <M1.jpg, id=368, 337.26pt x 132.495pt>
+File: M1.jpg Graphic file (type jpg)
+ <use M1.jpg>
+Package pdftex.def Info: M1.jpg used on input line 194.
+(pdftex.def)             Requested size: 301.00192pt x 118.25374pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ <M2.png, id=369, 337.26pt x 290.6511pt>
+File: M2.png Graphic file (type png)
+ <use M2.png>
+Package pdftex.def Info: M2.png used on input line 201.
+(pdftex.def)             Requested size: 215.0023pt x 185.29315pt.
+ [14 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/M1.jpg>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ <M3.jpg, id=376, 726.46407pt x 222.8325pt>
+File: M3.jpg Graphic file (type jpg)
+ <use M3.jpg>
+Package pdftex.def Info: M3.jpg used on input line 209.
+(pdftex.def)             Requested size: 322.50346pt x 98.92383pt.
+ [15 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/M2.png> <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/M3.jpg>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ <M4.png, id=384, 317.988pt x 357.7365pt>
+File: M4.png Graphic file (type png)
+ <use M4.png>
+Package pdftex.def Info: M4.png used on input line 217.
+(pdftex.def)             Requested size: 129.00269pt x 145.12811pt.
+ [16 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/M4.png>] <M5.jpg, id=391, 338.76563pt x 177.66376pt>
+File: M5.jpg Graphic file (type jpg)
+ <use M5.jpg>
+Package pdftex.def Info: M5.jpg used on input line 232.
+(pdftex.def)             Requested size: 322.50346pt x 169.14015pt.
+ [17 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/M5.jpg>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ <M6.jpg, id=403, 469.00218pt x 125.71968pt>
+File: M6.jpg Graphic file (type jpg)
+ <use M6.jpg>
+Package pdftex.def Info: M6.jpg used on input line 241.
+(pdftex.def)             Requested size: 322.50346pt x 86.44931pt.
+ [18] <M7.jpg, id=408, 219.82124pt x 296.60812pt>
+File: M7.jpg Graphic file (type jpg)
+ <use M7.jpg>
+Package pdftex.def Info: M7.jpg used on input line 247.
+(pdftex.def)             Requested size: 215.0023pt x 290.11276pt.
+ <M8.png, id=409, 594.22pt x 424.58624pt>
+File: M8.png Graphic file (type png)
+ <use M8.png>
+Package pdftex.def Info: M8.png used on input line 254.
+(pdftex.def)             Requested size: 301.00192pt x 215.0849pt.
+ [19 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/M6.jpg> <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/M7.jpg>] [20 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/M8.png (PNG copy)>] <circuit.png, id=425, 613.38403pt x 439.69312pt>
+File: circuit.png Graphic file (type png)
+ <use circuit.png>
+Package pdftex.def Info: circuit.png used on input line 266.
+(pdftex.def)             Requested size: 301.00192pt x 215.76685pt.
+ (c:/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+) [21 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/circuit.png>] [22] [23] [24] <gui.png, id=578, 556.0775pt x 579.16376pt>
+File: gui.png Graphic file (type png)
+ <use gui.png>
+Package pdftex.def Info: gui.png used on input line 425.
+(pdftex.def)             Requested size: 215.0023pt x 223.92874pt.
+ [25] <screen.jpg, id=587, 431.6125pt x 431.6125pt>
+File: screen.jpg Graphic file (type jpg)
+ <use screen.jpg>
+Package pdftex.def Info: screen.jpg used on input line 443.
+(pdftex.def)             Requested size: 129.00269pt x 128.99739pt.
+ <audio.jpg, id=588, 299.61937pt x 249.93375pt>
+File: audio.jpg Graphic file (type jpg)
+ <use audio.jpg>
+Package pdftex.def Info: audio.jpg used on input line 449.
+(pdftex.def)             Requested size: 129.00269pt x 107.61052pt.
+ <camera.jpg, id=589, 803.0pt x 803.0pt>
+File: camera.jpg Graphic file (type jpg)
+ <use camera.jpg>
+Package pdftex.def Info: camera.jpg used on input line 455.
+(pdftex.def)             Requested size: 129.00269pt x 128.99724pt.
+ [26 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/gui.png>] [27 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/screen.jpg> <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/audio.jpg> <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/camera.jpg>] <Z4.png, id=610, 1297.84875pt x 630.355pt>
+File: Z4.png Graphic file (type png)
+ <use Z4.png>
+Package pdftex.def Info: Z4.png used on input line 503.
+(pdftex.def)             Requested size: 301.00192pt x 146.19052pt.
+ [28 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Z4.png>] [29]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ <ganttA.png, id=620, 268.6035pt x 187.902pt>
+File: ganttA.png Graphic file (type png)
+ <use ganttA.png>
+Package pdftex.def Info: ganttA.png used on input line 562.
+(pdftex.def)             Requested size: 322.50346pt x 225.61314pt.
+ <ganttB.png, id=621, 266.79675pt x 222.8325pt>
+File: ganttB.png Graphic file (type png)
+ <use ganttB.png>
+Package pdftex.def Info: ganttB.png used on input line 562.
+(pdftex.def)             Requested size: 322.50346pt x 269.37314pt.
+
+Overfull \hbox (17.07823pt too wide) in paragraph at lines 562--562
+[]\OT1/cmr/m/n/12 The soft-ware and in-te-gra-tion part mainly con-sists of robot move-ment con-trol,function
+ []
+
+[30 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/ganttA.png>] <ganttC.png, id=628, 1078.0275pt x 423.984pt>
+File: ganttC.png Graphic file (type png)
+ <use ganttC.png>
+Package pdftex.def Info: ganttC.png used on input line 562.
+(pdftex.def)             Requested size: 344.005pt x 135.29594pt.
+ [31 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/ganttB.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [32 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/ganttC.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [33]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ë in font cmr12!
+
+Overfull \hbox (0.81871pt too wide) in paragraph at lines 605--605
+[]\OT1/cmr/m/n/12 https://gss2.bdstatic.com/-fo3dSag xI4khGkpoWK1HF6hhy/baike/crop%3D40
+ []
+
+
+Overfull \hbox (2.51729pt too wide) in paragraph at lines 605--605
+\OT1/cmr/m/n/12 %2C0%2C717%2C474%3Bc0%3Dbaike92%2C5%2C5%2C92%2C30/sign=c27ab
+ []
+
+
+Overfull \hbox (7.67833pt too wide) in paragraph at lines 605--605
+\OT1/cmr/m/n/12 7a130292df5838cf65581056c4c/9358d109b3de9c8287cc8b016681800a18d84396.jpg 
+ []
+
+
+Overfull \hbox (5.06172pt too wide) in paragraph at lines 605--605
+[]\OT1/cmr/m/n/12 https://gss1.bdstatic.com/9vo3dSag xI4khGkpoWK1HF6hhy/baike/crop%3D56
+ []
+
+
+Overfull \hbox (6.10753pt too wide) in paragraph at lines 605--605
+\OT1/cmr/m/n/12 %2C0%2C520%2C343%3Bc0%3Dbaike80%2C5%2C5%2C80%2C26/sign=f63045
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+\OT1/cmr/m/n/12 Https://Sumoguide.com/Wp-Content/Uploads/2016/09/SumoGuide-Logo-
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 605--605
+\OT1/cmr/m/n/12 300x100.Png, 31 July 2019, sumoguide.com/best-automatic-pilldispenser-
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[34] <A1.png, id=662, 625.33624pt x 453.695pt>
+File: A1.png Graphic file (type png)
+ <use A1.png>
+Package pdftex.def Info: A1.png used on input line 610.
+(pdftex.def)             Requested size: 430.00462pt x 311.98378pt.
+ [35 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/A1.png (PNG copy)>] <p.jpg, id=668, 164.2938pt x 219.219pt>
+File: p.jpg Graphic file (type jpg)
+ <use p.jpg>
+Package pdftex.def Info: p.jpg used on input line 655.
+(pdftex.def)             Requested size: 144.54pt x 192.87315pt.
+ <f.png, id=669, 196.02pt x 195.22937pt>
+File: f.png Graphic file (type png)
+ <use f.png>
+Package pdftex.def Info: f.png used on input line 655.
+(pdftex.def)             Requested size: 144.54pt x 143.95805pt.
+ [36 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/p.jpg>] <l.jpg, id=675, 169.5936pt x 218.2554pt>
+File: l.jpg Graphic file (type jpg)
+ <use l.jpg>
+Package pdftex.def Info: l.jpg used on input line 655.
+(pdftex.def)             Requested size: 144.54pt x 186.02748pt.
+ [37 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/f.png>] <z.jpg, id=683, 190.311pt x 187.4202pt>
+File: z.jpg Graphic file (type jpg)
+ <use z.jpg>
+Package pdftex.def Info: z.jpg used on input line 655.
+(pdftex.def)             Requested size: 144.54pt x 142.35217pt.
+ [38 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/l.jpg> <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/z.jpg>] <q.jpg, id=690, 244.2726pt x 183.084pt>
+File: q.jpg Graphic file (type jpg)
+ <use q.jpg>
+Package pdftex.def Info: q.jpg used on input line 655.
+(pdftex.def)             Requested size: 144.54pt x 108.33429pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 656.
+ [39 <d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/q.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 656.
+ (d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Design Review.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 656.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 656.
+Package rerunfilecheck Info: File `"Design Review".out' has not changed.
+(rerunfilecheck)             Checksum: 428E25C397E4CD5AEAFF87ACEB33FBDC;3569.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 656.
+ ) 
+Here is how much of TeX's memory you used:
+ 9242 strings out of 492995
+ 130929 string characters out of 6136403
+ 339904 words of memory out of 5000000
+ 12357 multiletter control sequences out of 15000+600000
+ 12740 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 28i,10n,42p,1280b,1893s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "d:/PANDA/Study/VE450/Design Review 3/DR3 Report/DR3report/Design Review.pdf" (39 pages, 4812390 bytes).
+PDF statistics:
+ 787 PDF objects out of 1000 (max. 8388607)
+ 679 compressed objects within 7 object streams
+ 288 named destinations out of 1000 (max. 500000)
+ 556 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,54 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Project Motivation}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Customer Requirement}{4}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Problem}{4}{subsubsection.1.2.1}
+\contentsline {subsection}{\numberline {1.3}Competitive and Related Products or Technology}{6}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Giraffe Telepresence Robot}{6}{subsubsection.1.3.1}
+\contentsline {subsection}{\numberline {1.4}Relevant Hardware \& Software}{7}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Raspberry Pi}{7}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Team Viewer}{7}{subsubsection.1.4.2}
+\contentsline {subsubsection}{\numberline {1.4.3}Screen, Camera and other Actuators and Sensors}{8}{subsubsection.1.4.3}
+\contentsline {section}{\numberline {2}Engineering Specification}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}Information Sources}{8}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Medicine Dispenser}{8}{subsubsection.2.1.1}
+\contentsline {paragraph}{Background}{8}{section*.2}
+\contentsline {paragraph}{Medicine Dispenser Standards\cite {5}}{8}{section*.3}
+\contentsline {subsubsection}{\numberline {2.1.2}Telepresence Robot}{9}{subsubsection.2.1.2}
+\contentsline {paragraph}{Telepresence Robot Standards}{9}{section*.4}
+\contentsline {subsection}{\numberline {2.2}Engineering Specifications}{9}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Hardware Standard}{9}{subsubsection.2.2.1}
+\contentsline {subsection}{\numberline {2.3}Software Standard}{10}{subsection.2.3}
+\contentsline {section}{\numberline {3}Selected Concept Description}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Chassis}{11}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Version I}{11}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Version II}{12}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Overview of Selected Concept}{13}{subsubsection.3.1.3}
+\contentsline {subsection}{\numberline {3.2}Medicine Dispenser}{14}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Mixed Pill Manual Sorting}{14}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Pill Blocks Automatic Sorting}{15}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Concept Selection Process}{15}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Overview of Selected Concept}{16}{subsubsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Engineering Design Analysis}{17}{subsubsection.3.2.5}
+\contentsline {paragraph}{Medicine Dispenser}{17}{section*.5}
+\contentsline {subsubsection}{\numberline {3.2.6}Design Description}{20}{subsubsection.3.2.6}
+\contentsline {subsection}{\numberline {3.3}Software Implementation}{20}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Control System}{21}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Communication System}{25}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Video Streaming System}{26}{subsubsection.3.3.3}
+\contentsline {subsection}{\numberline {3.4}Manufacturing Plan}{27}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Validation Plan}{29}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Chassis movement}{29}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Medicine dispenser}{29}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.3}Remove video communication}{29}{subsubsection.3.5.3}
+\contentsline {section}{\numberline {4}Project Timeline and Plan}{30}{section.4}
+\contentsline {subsection}{\numberline {4.1}Project Milestone \& Gantt Chart}{30}{subsection.4.1}
+\contentsline {section}{\numberline {5}Analaysis of Potential Problems}{33}{section.5}
+\contentsline {section}{\numberline {6}Conclusions}{33}{section.6}
+\contentsline {section}{\numberline {7}Reference}{34}{section.7}
+\contentsline {section}{\numberline {8}Appendix}{35}{section.8}
+\contentsline {section}{\numberline {9}Bios}{36}{section.9}
+\contentsline {subsection}{\numberline {9.1}Chongdan Pan}{36}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Fernando Boaro}{37}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Niyiqiu Liu}{38}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Ruixing Zhou}{38}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}Tianyu Qiu}{39}{subsection.9.5}
